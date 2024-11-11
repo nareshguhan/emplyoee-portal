@@ -1,7 +1,5 @@
 //action types
 
-import { type } from "@testing-library/user-event/dist/type";
-
 export const ADD_EMPLOYEE = "ADD_EMPLOYEE";
 export const DELETE_EMPLOYEE = "DELETE_EMPLOYEE";
 export const UPDATE_EMPLOYEE = "UPDATE_EMPLOYEE";
